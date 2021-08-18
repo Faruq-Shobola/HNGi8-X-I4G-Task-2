@@ -1,0 +1,14 @@
+{
+  "name": "hng-resume-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwind build -i src/style.css -o public/style.css"
+  },
+  "author": "shobola faruq",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "tailwindcss": "^2.2.7"
+  }
+}
