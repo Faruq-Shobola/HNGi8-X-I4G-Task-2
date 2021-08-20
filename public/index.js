@@ -8,7 +8,7 @@ const template = `
 <h1 class="text-4xl font-medium uppercase font-body text-purple-500">${name}</h1>
 <p class="capitalize text-gray-300 text-lg">a ${title}</p>
 </div>
-<div class="">
+<div class="mt-5">
 <a href="resume/index.html" class="capitalize text-lg text-white py-3 px-7 bg-purple-500 rounded-full font-nunito">view resume</a>
 </div>`;
 
